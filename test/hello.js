@@ -24,3 +24,4 @@
 //                          佛祖保佑         永无bug
 //                          
 console.log('%s,%s','hello','lv');
+console.log('Creating a new branch is quick.');
